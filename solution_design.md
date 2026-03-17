@@ -1,9 +1,9 @@
 
-# 💡 Solution Architecture
+### 💡 Solution Architecture
 
 An AI-powered, cloud-native system was designed and built on AWS to fully automate skill-gap analysis and deliver personalized training recommendations at scale.
 
-# AWS Services Used
+### AWS Services Used
 
 | AWS Service | Role in Solution |
 |---|---|
@@ -14,7 +14,7 @@ An AI-powered, cloud-native system was designed and built on AWS to fully automa
 
 ---
 
-# ⚙️ How It Works
+### ⚙️ How It Works
 
 ```
 Student CV + Job Description
@@ -44,7 +44,7 @@ Amazon QuickSight (Real-Time Insights Dashboard)
 
 ---
 
-# Impact & Outcomes
+### Impact & Outcomes
 
 | Outcome | Detail |
 |---|---|
@@ -55,7 +55,7 @@ Amazon QuickSight (Real-Time Insights Dashboard)
 
 ---
 
-# Skills Demonstrated
+### Skills Demonstrated
 
 **Cloud & Infrastructure**
 - AWS cloud architecture design and multi-service integration
@@ -78,7 +78,7 @@ Amazon QuickSight (Real-Time Insights Dashboard)
 
 ---
 
-# 🌐 Broader Applicability
+### 🌐 Broader Applicability
 
 While built for career coaching, this architecture is **domain-agnostic**. The same pattern applies to:
 
@@ -90,5 +90,3 @@ While built for career coaching, this architecture is **domain-agnostic**. The s
 
 ---
 
-
-*If this project was helpful or interesting, feel free to ⭐ star the repository!*
