@@ -1,4 +1,3 @@
-# AWS_business_intelligence
 
 # ☁️ AI-Powered Career Coaching Automation
 ### Amazon Q Business · Amazon S3 · Amazon QuickSight · AWS
